@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="600" src="https://github.com/CalvinTan68/Spam-Bot/blob/main/preview.gif">
+</p>
+
 ## About Project
 
 A simple python script to spam text. Could be used to spam in WhatsApp to annoy your friends hehe
