@@ -1,8 +1,8 @@
 import pyautogui
 import time
 
-msg = input("Text: ")
-n = input("How many times ?: ")
+msg = input("Input text here : ")
+n = input("Repetition (in number) : ")
 
 time.sleep(5)
 
